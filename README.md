@@ -4,3 +4,8 @@
 
 
 Easy and blazing database map/wrapper for golang
+
+
+TODO List:
+
+1. Integration with PostgreSQL driver
